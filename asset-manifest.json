@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/tickets-app/static/css/main.0c74b1ac.css",
-    "main.js": "/tickets-app/static/js/main.4ea3c3a4.js",
+    "main.css": "/tickets-app/static/css/main.8e9205cc.css",
+    "main.js": "/tickets-app/static/js/main.f9c7ab9d.js",
     "static/media/airplane.svg": "/tickets-app/static/media/airplane.8a669ee98e5d4e1e18e7.svg",
     "static/media/close_icon.svg": "/tickets-app/static/media/close_icon.f9098af46711e7f49024312b17479911.svg",
     "index.html": "/tickets-app/index.html",
-    "main.0c74b1ac.css.map": "/tickets-app/static/css/main.0c74b1ac.css.map",
-    "main.4ea3c3a4.js.map": "/tickets-app/static/js/main.4ea3c3a4.js.map"
+    "main.8e9205cc.css.map": "/tickets-app/static/css/main.8e9205cc.css.map",
+    "main.f9c7ab9d.js.map": "/tickets-app/static/js/main.f9c7ab9d.js.map"
   },
   "entrypoints": [
-    "static/css/main.0c74b1ac.css",
-    "static/js/main.4ea3c3a4.js"
+    "static/css/main.8e9205cc.css",
+    "static/js/main.f9c7ab9d.js"
   ]
 }

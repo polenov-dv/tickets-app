@@ -5,13 +5,13 @@ import planeImg from "img/planeImg.png";
 
 function App() {
   return (
-    <main className={`${cls.main} ${cls.container}`}>
+    <div className={`${cls.main} ${cls.container}`}>
       <img className={cls.plane} src={planeImg} alt="plane" />
       <div className={cls.app}>
         <SideBar />
         <TicketsList />
       </div>
-    </main>
+    </div>
   );
 }
 
